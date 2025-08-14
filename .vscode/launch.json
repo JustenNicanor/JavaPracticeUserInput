@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeArrays",
+            "request": "launch",
+            "mainClass": "MergeArrays",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyCharacters",
+            "request": "launch",
+            "mainClass": "FrequencyCharacters",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
+            "name": "FindSecondLargestArray",
+            "request": "launch",
+            "mainClass": "FindSecondLargestArray",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
             "name": "LargestElement",
             "request": "launch",
             "mainClass": "LargestElement",
