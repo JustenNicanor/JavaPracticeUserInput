@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindAandB",
+            "request": "launch",
+            "mainClass": "FindAandB",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
+            "name": "AscendingOrder",
+            "request": "launch",
+            "mainClass": "AscendingOrder",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAscending",
+            "request": "launch",
+            "mainClass": "ArrayAscending",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
             "name": "MergeArrays",
             "request": "launch",
             "mainClass": "MergeArrays",

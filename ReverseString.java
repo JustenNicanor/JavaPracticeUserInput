@@ -5,8 +5,9 @@ public class ReverseString {
     public static void main(String[] args) {
 
         while (true) {
-            System.out.print("Input your name or 'EXIT' to end: ");
             Scanner sc = new Scanner(System.in);
+            System.out.println("Type 'Exit' to end");
+            System.out.print("Input your name or 'EXIT' to end: ");
             String input = sc.nextLine();
 
             if (input.equalsIgnoreCase("EXIT")){
