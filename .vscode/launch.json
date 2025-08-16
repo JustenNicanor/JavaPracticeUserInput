@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntDuplicate",
+            "request": "launch",
+            "mainClass": "IntDuplicate",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
+            "name": "CountVowelsConsonants",
+            "request": "launch",
+            "mainClass": "CountVowelsConsonants",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
+            "name": "ReverseEachWord",
+            "request": "launch",
+            "mainClass": "ReverseEachWord",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
             "name": "FindAandB",
             "request": "launch",
             "mainClass": "FindAandB",
