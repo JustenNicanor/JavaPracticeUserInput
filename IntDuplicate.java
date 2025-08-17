@@ -11,7 +11,7 @@ public class IntDuplicate {
         while (true) {
             Scanner scan = new Scanner(System.in);
             System.out.println("Type Exit to end.");
-            System.out.println("Enter a numbers: ");
+            System.out.print("Enter a numbers: ");
             String input = scan.nextLine();
 
             if (input.equalsIgnoreCase("Exit")) {

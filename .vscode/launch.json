@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FactorialRecursion",
+            "request": "launch",
+            "mainClass": "FactorialRecursion",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
             "name": "IntDuplicate",
             "request": "launch",
             "mainClass": "IntDuplicate",
