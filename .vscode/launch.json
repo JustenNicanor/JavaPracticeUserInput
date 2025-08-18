@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortLetters",
+            "request": "launch",
+            "mainClass": "SortLetters",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "JavaPracticeUserInput_d629f149"
+        },
+        {
+            "type": "java",
             "name": "FactorialRecursion",
             "request": "launch",
             "mainClass": "FactorialRecursion",
